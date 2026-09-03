@@ -1,4 +1,3 @@
-Pillow
 piexif
 pypdf
 python-docx
